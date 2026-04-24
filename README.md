@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
