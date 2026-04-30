@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/MaheepGhanshani/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
 ## Simulation
 |  |
@@ -81,4 +83,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
