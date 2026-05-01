@@ -82,10 +82,15 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MaheepGhanshani/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MaheepGhanshani/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
