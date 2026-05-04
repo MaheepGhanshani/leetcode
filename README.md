@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -86,11 +87,13 @@
 | [0155-min-stack](https://github.com/MaheepGhanshani/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/MaheepGhanshani/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/MaheepGhanshani/leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
