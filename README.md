@@ -90,6 +90,7 @@
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheepGhanshani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/MaheepGhanshani/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MaheepGhanshani/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/MaheepGhanshani/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
