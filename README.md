@@ -17,6 +17,7 @@
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/MaheepGhanshani/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
 ## Simulation
@@ -58,6 +59,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MaheepGhanshani/leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -128,4 +131,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MaheepGhanshani/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
