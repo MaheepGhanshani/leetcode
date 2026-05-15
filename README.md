@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MaheepGhanshani/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MaheepGhanshani/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MaheepGhanshani/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MaheepGhanshani/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
