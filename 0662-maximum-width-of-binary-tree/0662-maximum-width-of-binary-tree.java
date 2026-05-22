@@ -34,7 +34,7 @@ class Solution {
             int size=q.size();
             int stIdx=q.peek().index;
             int endIdx=q.peek().index;
-            maxWid=Math.max(maxWid,endIdx-stIdx+1);
+      
             for(int i=0;i<size;i++){
                 Pair curr= q.remove();   
                 int idx=curr.index;
@@ -46,7 +46,7 @@ class Solution {
                     q.add(new Pair(curr.node.right,idx*2+2));
                 }
             }
-                maxWid=Math.max(maxWid,(endIdx-stIdx+1));
+               maxWid=Math.max(maxWid,(endIdx-stIdx+1));
         }
    return maxWid;
     }
