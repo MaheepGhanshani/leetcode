@@ -16,8 +16,8 @@
 class Solution {
     class Pair{
         TreeNode node;
-        long index;
-        Pair(TreeNode node,long index ){
+        int index;
+        Pair(TreeNode node,int  index ){
             this.node=node;
             this.index=index;
         }
@@ -29,15 +29,15 @@ class Solution {
         }
         Queue<Pair>q=new LinkedList<>();
         q.add(new Pair (root,0));
-        long maxWid=0;
+        int maxWid=0;
         while(!q.isEmpty()){
             int size=q.size();
-            long stIdx=q.peek().index;
-            long endIdx=q.peek().index;
+            int stIdx=q.peek().index;
+            int endIdx=q.peek().index;
             maxWid=Math.max(maxWid,endIdx-stIdx+1);
             for(int i=0;i<size;i++){
                 Pair curr= q.remove();   
-                long idx=curr.index;
+                int idx=curr.index;
                 endIdx=idx;
                 if(curr.node.left !=null){
                     q.add(new Pair(curr.node.left,idx*2+ 1));
@@ -46,8 +46,8 @@ class Solution {
                     q.add(new Pair(curr.node.right,idx*2+2));
                 }
             }
-                maxWid=Math.max(maxWid,(int)(endIdx-stIdx+1));
+                maxWid=Math.max(maxWid,(endIdx-stIdx+1));
         }
-   return (int)maxWid;
+   return maxWid;
     }
 }
