@@ -131,6 +131,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MaheepGhanshani/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MaheepGhanshani/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/MaheepGhanshani/leetcode/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheepGhanshani/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -164,10 +166,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
 | ------- |
@@ -190,6 +194,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +235,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +247,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
 | ------- |
