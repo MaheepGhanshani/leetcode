@@ -27,7 +27,7 @@ helperserialize(root,sb);
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if (data.isEmpty()) return null;
+       // if (data.isEmpty()) return null;
         String[]arr=data.split(",");
         Queue<String>q=new LinkedList<>();
         for(String s:arr){
