@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/MaheepGhanshani/leetcode/tree/master/0134-gas-station) |
 | [0229-majority-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MaheepGhanshani/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -26,6 +27,7 @@
 | [0141-linked-list-cycle](https://github.com/MaheepGhanshani/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -102,6 +105,7 @@
 | [0141-linked-list-cycle](https://github.com/MaheepGhanshani/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +184,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Bit Manipulation
 |  |
