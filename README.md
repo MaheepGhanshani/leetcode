@@ -20,6 +20,7 @@
 | [0912-sort-an-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MaheepGhanshani/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MaheepGhanshani/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MaheepGhanshani/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MaheepGhanshani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/MaheepGhanshani/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
+| [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MaheepGhanshani/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
