@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MaheepGhanshani/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheepGhanshani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/MaheepGhanshani/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/MaheepGhanshani/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MaheepGhanshani/leetcode/tree/master/0169-majority-element) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MaheepGhanshani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MaheepGhanshani/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
