@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/MaheepGhanshani/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MaheepGhanshani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MaheepGhanshani/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MaheepGhanshani/leetcode/tree/master/0134-gas-station) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MaheepGhanshani/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MaheepGhanshani/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/MaheepGhanshani/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/MaheepGhanshani/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MaheepGhanshani/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
