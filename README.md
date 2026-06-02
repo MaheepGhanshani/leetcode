@@ -11,6 +11,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MaheepGhanshani/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MaheepGhanshani/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MaheepGhanshani/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/MaheepGhanshani/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MaheepGhanshani/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MaheepGhanshani/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MaheepGhanshani/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -200,6 +201,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MaheepGhanshani/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
