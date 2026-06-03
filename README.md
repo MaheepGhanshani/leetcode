@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MaheepGhanshani/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/MaheepGhanshani/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MaheepGhanshani/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -338,5 +339,6 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MaheepGhanshani/leetcode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
