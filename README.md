@@ -224,6 +224,7 @@
 | ------- |
 | [0136-single-number](https://github.com/MaheepGhanshani/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MaheepGhanshani/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/MaheepGhanshani/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/MaheepGhanshani/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Tree
 |  |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MaheepGhanshani/leetcode/tree/master/0050-powx-n) |
+| [0371-sum-of-two-integers](https://github.com/MaheepGhanshani/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/MaheepGhanshani/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Quickselect
 |  |
